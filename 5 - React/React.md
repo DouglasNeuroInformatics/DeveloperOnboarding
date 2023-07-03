@@ -3,14 +3,20 @@
 ## Background
 As of July 2023, we use React for all of our web apps. React is a JavaScript library for building user interfaces.
 
-## Questions
-- What is the difference between a element, component, and component instance?
-- What does a React component actually return?
-- What is the purpose of a key in React?
+## Outcomes
+- Understand the basics of how React works under the hood 
 
 ## Resources
-- https://react.dev/learn
-- https://www.youtube.com/watch?v=7YhdqIR2Yzo
+
+### Beginners
+
+- [Quick Start](https://react.dev/learn)
+
+### Advanced
+
+- [How Does React Actually Work? React.js Deep Dive #1](https://www.youtube.com/watch?v=7YhdqIR2Yzo)
+- [What Is React Fiber? React.js Deep Dive #2](https://www.youtube.com/watch?v=0ympFIwQFJw)
+- [How Do React Hooks Actually Work? React.js Deep Dive #3](https://www.youtube.com/watch?v=1VVfMVQabx0)
 
 **Note**
 
