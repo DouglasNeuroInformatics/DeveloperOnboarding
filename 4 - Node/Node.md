@@ -2,7 +2,7 @@
 
 ## Background
 
-Node is a JavaScript runtime based on the V8 engine (the JavaScript engine in Chromium browsers).
+Node is a JavaScript runtime based on the V8 engine (the JavaScript engine in Chromium browsers). I recommend installing the latest LTS version of Node with [NVM](https://github.com/nvm-sh/nvm).
 
 ## Outcomes
 - Create a simple web server with Node to serve the static website you have been working on
