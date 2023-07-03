@@ -13,3 +13,4 @@
 
 ### Reference Material
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+- [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html)
