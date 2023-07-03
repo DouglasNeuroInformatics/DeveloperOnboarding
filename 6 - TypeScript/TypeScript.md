@@ -1,5 +1,9 @@
 # TypeScript
 
+## Background
+
+## Outcomes
+
 ## Resources
 
 ### Beginners
