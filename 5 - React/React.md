@@ -21,3 +21,5 @@ As of July 2023, we use React for all of our web apps. React is a JavaScript lib
 **Note**
 
 In more recent versions of React, there is an alternative JSX transform that can be used by compilers instead of `React.createElement`. If you are interested you can learn more [here](https://legacy.reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
+
+### Reference Material
