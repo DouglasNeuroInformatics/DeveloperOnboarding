@@ -8,6 +8,7 @@
 
 ### Beginners
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [Learn Regex](https://github.com/ziishaned/learn-regex)
 
 ### Useful Packages
 
